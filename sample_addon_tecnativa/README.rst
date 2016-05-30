@@ -60,4 +60,4 @@ and provides Odoo development, install, maintenance and hosting
 services.
 
 To contribute to this module, please visit https://github.com/Tecnativa
-or contact us at sales@tecnativa.com
+or contact us at info@tecnativa.com
